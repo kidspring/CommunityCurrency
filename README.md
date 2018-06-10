@@ -1,1 +1,1 @@
-# CommunityCurrency
+# CommunityCurrencies
